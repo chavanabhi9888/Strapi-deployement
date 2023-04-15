@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "organization_users",
+  "info": {
+    "singularName": "organization-user",
+    "pluralName": "organization-users",
+    "displayName": "Organization user"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
